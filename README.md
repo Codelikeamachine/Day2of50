@@ -3,9 +3,10 @@ Embark on an exhilarating journey of web development with my "50 Days, 50 WebDev
 Live Demo - https://codelikeamachine.github.io/Day2of50-Awesome-Feedback-Form/
 
 Join me
-GitHub-https://github.com/Codelikeamachine
 
-GitHub: https://github.com/Codelikeamachine
+Linkedin - http://www.linkedin.com/in/armaansaraswat
+
+GitHub - https://github.com/Codelikeamachine
 
 Instagram - https://www.instagram.com/saraswat_armaan
 
